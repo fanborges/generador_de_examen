@@ -1,0 +1,34 @@
+c:\users\clemente\documents\visual studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.exe.config
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\main_db.accdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.exe
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.pdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\logica.dll
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\bin\x86\Debug\logica.pdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_app.csprojResolveAssemblyReference.cache
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Acceso.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Properties.Resources.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_app.csproj.GenerateResource.Cache
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.exe
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.pdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Examen.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Registro.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Totales1.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Resultados.resources
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Totales_alumno.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.exe.config
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.exe
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.pdb
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\main_db.accdb
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.exe
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\examen_ap.pdb
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\logica.dll
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\bin\x86\Debug\logica.pdb
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_app.csprojResolveAssemblyReference.cache
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Acceso.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Examen.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Properties.Resources.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Registro.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Resultados.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_app.csproj.GenerateResource.Cache
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Totales_alumnos.resources
+C:\Users\clemente\Desktop\generador_de_examenes\examen_ap\obj\x86\Debug\examen_ap.Totales_intento.resources

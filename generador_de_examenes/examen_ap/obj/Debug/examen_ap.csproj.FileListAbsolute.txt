@@ -1,0 +1,1 @@
+c:\users\clemente\documents\visual studio 2015\Projects\generador_de_examenes\examen_ap\bin\Debug\examen_ap.exe.config

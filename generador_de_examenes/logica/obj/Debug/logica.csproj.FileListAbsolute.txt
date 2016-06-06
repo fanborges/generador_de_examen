@@ -1,0 +1,11 @@
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\bin\Debug\logica.dll
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\bin\Debug\logica.pdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\obj\Debug\logica.dll
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\obj\Debug\logica.pdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\bin\Debug\main_db.accdb
+C:\Users\clemente\Documents\Visual Studio 2015\Projects\generador_de_examenes\logica\bin\Debug\logica.dll.config
+C:\Users\clemente\Desktop\generador_de_examenes\logica\bin\Debug\logica.dll.config
+C:\Users\clemente\Desktop\generador_de_examenes\logica\bin\Debug\logica.dll
+C:\Users\clemente\Desktop\generador_de_examenes\logica\bin\Debug\logica.pdb
+C:\Users\clemente\Desktop\generador_de_examenes\logica\obj\Debug\logica.dll
+C:\Users\clemente\Desktop\generador_de_examenes\logica\obj\Debug\logica.pdb
